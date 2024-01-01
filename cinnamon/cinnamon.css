@@ -1,6 +1,6 @@
 /* ###################################################################
  * Section common with Gnome Shell
- * ... contains a few cinnamon specific styles (rare occurrences)
+ * contains a few cinnamon specific styles (rare occurrences)
  * ###################################################################*/
 .cinnamon-link {
   color: #3281ea;
@@ -180,6 +180,7 @@ StScrollBar StButton#vhandle:active {
   /* background-color: rgba(255, 255, 255, 0.95); */
 }
 
+/* 弹出子菜单 */
 .popup-sub-menu {
   margin: 0 4px;
   color: rgba(0, 0, 0, 0.75);
@@ -569,7 +570,7 @@ StScrollBar StButton#vhandle:active {
   border-color: rgba(60, 60, 60, 6);
   border-radius: 7px 7px 7px 7px;
   background-color: #3281ea;
-  color: #00ff00;
+  color: #fff;
   text-shadow: 2px 2px 2px #000000;
   transition-duration: 0;
 }
@@ -840,7 +841,7 @@ StScrollBar StButton#vhandle:active {
 }
 
 /* ===================================================================
- * Date applet
+ * Date applet  日期控件
  * ===================================================================*/
 /*calendar-background allows the date applet calendar to be themed separately from other applet menus*/
 .calendar {
