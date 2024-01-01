@@ -9,6 +9,6 @@ Copyright belongs to the original author [andr35](https://github.com/andr35)
 ![thumbnail](./cinnamon/thumbnail.png)
 
 This warehouse stores themes that I personally use and will continue to learn and modify according to my personal habits.    
-这个仓库存放的是我个人使用的主题，会持续跟着个人习惯进修修改。
+本仓库存放的是我个人使用的主题，会持续跟着个人习惯修改，最终会跟  [Orchidea](https://cinnamon-spices.linuxmint.com/themes/view/Orchidea) 相差很大，如果喜欢原版，请不要使用这个。
 
 contact me: [me@iamcheyan.com](mailto:me@iamcheyan.com)
