@@ -10,4 +10,3 @@ Copyright belongs to the original author [andr35](https://github.com/andr35)
 ![thumbnail](./cinnamon/thumbnail.png)
 
 contact me: me@iamcheyan.com
-有问题联系我：me@iamcheyan.com
