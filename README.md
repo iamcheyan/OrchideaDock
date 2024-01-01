@@ -10,4 +10,5 @@ Copyright belongs to the original author [andr35](https://github.com/andr35)
 
 This warehouse stores themes that I personally use and will continue to learn and modify according to my personal habits.    
 这个仓库存放的是我个人使用的主题，会持续跟着个人习惯进修修改。
+
 contact me: [me@iamcheyan.com](mailto:me@iamcheyan.com)
