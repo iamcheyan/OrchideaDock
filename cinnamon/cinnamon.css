@@ -1136,7 +1136,8 @@ StScrollBar StButton#vhandle:active {
   background-color: rgba(47, 47, 47, 1);
   color: #ffffff;
   /* padding: 0 10px; */
-  padding: 0 8px;
+  /* padding: 0 8px; */
+  padding: 0;
 }
 
 /* .switcher-list {
