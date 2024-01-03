@@ -537,18 +537,18 @@ StScrollBar StButton#vhandle:active {
 .systray>.applet-box {}
 
 .systray:hover {
-  padding-top: 0px;
+  /* padding-top: 0px;
   padding-left: 1px;
   padding-right: 1px;
-  padding-bottom: 0px;
-  border-style: solid;
-  border: 1px;
-  border-color: rgba(60, 60, 60, 6);
-  border-radius: 7px 7px 7px 7px;
-  background-color: #3281ea;
-  box-shadow: inset 1px 0px 0px 0px rgba(217, 217, 217, 0.9);
+  padding-bottom: 0px; */
+  /* border-style: solid; */
+  /* border: 1px; */
+  /* border-color: rgba(60, 60, 60, 6); */
+  /* border-radius: 7px 7px 7px 7px; */
+  /* background-color: #3281ea;
+  box-shadow: inset 1px 0px 0px 0px rgba(217, 217, 217, 0.9); */
   color: #fff;
-  text-shadow: 2px 2px 2px #000000;
+  /* text-shadow: 2px 2px 2px #000000; */
   transition-duration: 30;
 }
 
