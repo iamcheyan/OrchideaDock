@@ -5,12 +5,9 @@ http://code.iamcheyan.com/cheyan/OrchideaDockA
 cinnamon theme, modified from [Orchidoa]( https://cinnamon-spices.linuxmint.com/themes/view/Orchidea) On the basis of the original theme, a panel based Dock has been implemented, which adapts to the appearance of the left, right, and bottom directions. 
 Copyright belongs to the original author [andr35](https://github.com/andr35)
 
-一款 cinnamon 主题，修改自 [Orchidea](https://cinnamon-spices.linuxmint.com/themes/view/Orchidea)，在原主题的基础上，实现了基于 cinnamon 面板的 Dock ，适配了左，右，下方向的外观。  
-版权属于原作者 [andr35](https://github.com/andr35)
+Cinnamonテーマの一つで、[Orchidea](https://cinnamon-spices.linuxmint.com/themes/view/Orchidea)を元に改変されています。元のテーマをベースに、Cinnamonパネルを使用したDockを実装し、左、右、下の方向に対応した外観を実現しました。
+著作権は原作者の[andr35](https://github.com/andr35)に帰属します。
 
 ![thumbnail](./cinnamon/thumbnail.png)
-
-This warehouse stores themes that I personally use and will continue to learn and modify according to my personal habits.    
-本仓库存放的是我个人使用的主题，会持续跟着个人习惯修改，最终会跟  [Orchidea](https://cinnamon-spices.linuxmint.com/themes/view/Orchidea) 相差很大，如果喜欢原版，请不要使用这个。
 
 contact me: [me@iamcheyan.com](mailto:me@iamcheyan.com)
